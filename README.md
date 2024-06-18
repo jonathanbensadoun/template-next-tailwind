@@ -44,3 +44,7 @@ Tailwind CSS Documentation
 ## Deploying
 
 The easiest way to deploy your Next.js application is to use the Vercel platform. Check out the Next.js deployment documentation for more details.
+
+## Contact
+
+https://www.linkedin.com/in/jonathan-bensadoun/
